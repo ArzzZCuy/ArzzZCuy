@@ -19,17 +19,7 @@ Aku Sedang Belajar Koding Dan Aku Masih Sekolah SMP
 [![](https://visitcount.itsvg.in/api?id=ArzzZCuy&icon=5&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/arzxd) 
-
-<img src="https://raw.githubusercontent.com/ArzzZCuy/ArzzZCuy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArzzZCuy/ArzzZCuy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArzzZCuy/ArzzZCuy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArzzZCuy/ArzzZCuy/output/pacman-contribution-graph.svg">
-</picture>
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/arzxd)
 
 ###
 
